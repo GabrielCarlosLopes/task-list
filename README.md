@@ -1,16 +1,13 @@
-# task_list
+# Lista de tarefas!
 
-A new Flutter project.
+Olá, este é um projeto de uma lista de tarefas em flutter. Neste app você tem a possibilidade de adicionar tarefas, marca-las como concluida e excluir elas.
 
-## Getting Started
+Para este projeto foi utilizado  [path_provider)](https://pub.dev/packages/path_provider) para guardar e recuperar as tarefas localmente no celular, com um arquivo json.
 
-This project is a starting point for a Flutter application.
+![](https://github.com/GabrielCarlosLopes/task-list/blob/main/screenshots/01.png)
 
-A few resources to get you started if this is your first Flutter project:
+![](https://github.com/GabrielCarlosLopes/task-list/blob/main/screenshots/02.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![](https://github.com/GabrielCarlosLopes/task-list/blob/main/screenshots/03.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://github.com/GabrielCarlosLopes/task-list/blob/main/screenshots/04.png)
