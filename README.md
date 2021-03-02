@@ -4,10 +4,15 @@ Olá, este é um projeto de uma lista de tarefas em flutter. Neste app você tem
 
 Para este projeto foi utilizado  [path_provider)](https://pub.dev/packages/path_provider) para guardar e recuperar as tarefas localmente no celular, com um arquivo json.
 
-![](https://github.com/GabrielCarlosLopes/task-list/blob/main/screenshots/01.png)
+## Screenshots
 
-![](https://github.com/GabrielCarlosLopes/task-list/blob/main/screenshots/02.png)
-
-![](https://github.com/GabrielCarlosLopes/task-list/blob/main/screenshots/03.png)
-
-![](https://github.com/GabrielCarlosLopes/task-list/blob/main/screenshots/04.png)
+<table>
+  <tr>
+    <td><img src="screenshots/01.png" width=270 height=480></td>
+    <td><img src="screenshots/02.png" width=270 height=480></td>
+  </tr>
+  <tr>
+	<td><img src="screenshots/03.png" width=270 height=480></td>
+	<td><img src="screenshots/04.png" width=270 height=480></td>
+  </tr>
+</table>
